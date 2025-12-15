@@ -58,18 +58,11 @@
 </p>
 
 ---
-
-<p align="center">
-
-| COMPONENTS    | COMPUTER                                  | LAPTOP                      |
-| ------------- |:-----------------------------------------:| ---------------------------:|
-| GPU           | GEFORCE RTX 3060 12GB                     | IRIS GRAPHICS 540           |
-| CPU           | i5-10400F 2.60GHz                         | i7-6560U 2.20GHz            |
-| MEMORY        | 2x8GB DDR4 2600MHz                        | 2X8GB DDR3 1867MHz          |
-| STORAGE       | 1xM.2 1TB, 1xHDD 1TB, 1x240GB SSD         | PM951 NVMe SAMSUNG 512GB    |
-| MB            | H410M S2H v3                              | DELL XPS 13 9350            |
-| PSU           | Deepcool PD650 650W                       |                             |
-| OS            | Windows 11 Pro                            |   Linux Fedora KDE Plasma   |
+<p align="center"> 
+  
+  <img width="350" height="350" alt="PC" src="https://github.com/user-attachments/assets/1b4c63d6-0acc-4b4a-97a4-d0c24815e911" />
+  <img width="350" height="350" alt="LAPTOP" src="https://github.com/user-attachments/assets/00117d39-13f4-4de0-b0e0-752dcecad8d7" />
 
 </p>
+
 
